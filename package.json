@@ -1,0 +1,12 @@
+{
+  "name": "amma",
+  "version": "0.0.1",
+  "description": "3D library",
+  "main": "gulpfile.js",
+  "author": "Jose Wilson Capera Castaño",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.4.1"
+  }
+}
